@@ -1,0 +1,28 @@
+/* src/App.css */
+
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* min-height: 100vh; */
+  background-color: #b8ebff; /* Sky Blue */
+}
+
+.container {
+  text-align: center;
+  padding: 50px;
+  background-color: #c7b0d1; /* Lilac */
+  border-radius: 50px;
+  min-height: 50vh;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  color: #5d7e98; /* Dark Blue */
+}
+
+p {
+  color: #7d6d8c; /* Dark Lilac */
+}
